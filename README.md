@@ -1,8 +1,21 @@
 # CPP Project 2022 Fall Semester
 
-#### 介绍
-Try to use gitee to help us build our project
-终于不用合作写代码的时候互相把代码复制到记事本在wx传来传去了
+#### Intro
+
+Machikoro is a simple yet fun management board game for 2-4 players that uses dice and currency to build buildings with various functions. The first player to complete the four landmark buildings wins the game, and a single game lasts 20-30 minutes. 
+![image](https://github.com/JackWang0318/Machikoro_cpp_project/assets/99715727/c16dbd06-e796-4f9a-a574-2fcb20207f2f)
+
+Our group used distributed cooperation to complete the implementation of the online application of "Machikoro" in the Clion compiler, including the selection of the game version, the functions and attributes of various ordinary buildings and landmarks, the attributes of the buildings and currencies owned by the players, the generation and setup of the computer players, the human-computer interaction page, and other basic functions. 
+  On the basis of the above modules, the normal operation of Dice Street is initially realized.
+Players can operate the game on the desktop Desk of the program, and the player who meets the conditions will be automatically judged by the system to win. In addition, we designed to expand the card packs and gameplay of the port version, so that players can freely choose the gameplay and use different functional card packs. 
+
+
+We used gitee to help us build our project, since the gitee repo is private, I moved it to this github repo for others to view.
+
+## [Video Demo Link](https://www.bilibili.com/video/BV1y24y1C7LG/?spm_id_from=333.999.0.0&vd_source=3cf6a25e20fce619b2d35930f06672e8)
+
+## UML graph
+![image](https://github.com/JackWang0318/Machikoro_cpp_project/assets/99715727/6f5360aa-8dfd-4437-b7a3-a90005aa1757)
 
 
 #### gitee使用教程
@@ -14,6 +27,7 @@ https://blog.csdn.net/maxle/article/details/124867297?ops_request_misc=%257B%252
 3.  现在已经可以开始使用gitee了，相关命令代码教程见廖雪峰网站：
 https://www.liaoxuefeng.com/wiki/896043488029600
 教程虽然用的是github作为讲解，但是指令完全一致。
+
 #### github使用教程
 如何寻找ssh公钥？https://www.jb51.net/article/241929.htm
 如果遇到Key is invalid.问题，我们应该注意自己选择的公钥是否正确，进入创建时自动产生的路径
